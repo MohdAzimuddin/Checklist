@@ -6,7 +6,7 @@ const DarkLight = ({setDark,dark}) => {
   const handleToggleClick = () => {
     setDark(!dark);
   };
-
+ 
   return (
     <>
       <button
