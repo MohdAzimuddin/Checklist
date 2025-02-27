@@ -17,7 +17,7 @@ const CheckList = () => {
     localStorage.setItem("tasks", JSON.stringify(task));
   }, [task])
 
-
+ 
 // Handle input field 
 const handleInputChange = (e) => {
   SetInput(e.target.value)
