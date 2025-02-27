@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 const DateTime = () => {
   const [date, setDate] = useState("");
   const [time, setTime] = useState("");
-
+ 
   useEffect(() => {
     const cuurentDate = new Date();
     setDate(cuurentDate.toLocaleDateString());
