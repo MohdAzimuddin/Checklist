@@ -1,4 +1,4 @@
-### 📜 **README.md for Your Task List App**
+### 📜 **README.md for Your Check List App**
 ```md
 # ✅ CheckList App
 
@@ -21,7 +21,7 @@ A simple yet elegant **CheckList App** built with **React & Tailwind CSS**, feat
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/task-list-app.git
+git clone https://github.com/MohdAzimuddin/Checklist.git
 cd task-list-app
 ```
 
@@ -45,8 +45,8 @@ This project is open-source under the **MIT License**.
 
 ## 🙌 Connect with Me
 👤 **[Mohd Azimuddin]**  
-🔗 GitHub: [github.com/your-username](https://github.com/MohdAzimuddin)  
-🔗 LinkedIn: [linkedin.com/in/your-profile](in/mohd-azimuddin-shaikh-34284b202)  
+🔗 GitHub: [github.com/Mohd Azimuddin](https://github.com/MohdAzimuddin)  
+🔗 LinkedIn: [linkedin.com/in/Mohd-Azimuddim](in/mohd-azimuddin-shaikh-34284b202)  
 
 Give a ⭐ if you like this project! 😊✨
 ```
