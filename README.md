@@ -4,7 +4,7 @@
 
 A simple yet elegant **CheckList App** built with **React & Tailwind CSS**, featuring **dark mode, local storage support, and task completion tracking**.  
 
-🚀 **Live Demo:** [Check it out on Vercel](https://your-vercel-url.vercel.app)  
+🚀 **Live Demo:** [Check it out on Vercel](https://checklist-mohdazimuddin-chi.vercel.app/)  
 
 ---
 
