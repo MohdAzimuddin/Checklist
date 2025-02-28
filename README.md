@@ -1,6 +1,3 @@
-Here is the **CheckList App** README.md in the requested format:
-
-```md
 # ✅ CheckList App
 
 A simple yet elegant **CheckList App** built with **React & Tailwind CSS**, featuring **dark mode, local storage support, and task completion tracking**.  
@@ -9,24 +6,23 @@ A simple yet elegant **CheckList App** built with **React & Tailwind CSS**, feat
 
 ---
 
-## **Table of Contents**
+## Table of Contents
 
-1. [Introduction](#introduction)  
-2. [Features](#features)  
-3. [Live Demo](#live-demo)  
-4. [Technologies Used](#technologies-used)  
-5. [Setup Instructions](#setup-instructions)  
-6. [Folder Structure](#folder-structure)  
-7. [Code Highlights](#code-highlights)  
-8. [Responsive Design](#responsive-design)  
-9. [Future Enhancements](#future-enhancements)  
-10. [Contribution Guidelines](#contribution-guidelines)  
-11. [License](#license)  
-12. [Contact](#contact)
+1. Introduction  
+2. Features  
+3. Live Demo  
+4. Technologies Used  
+5. Setup Instructions  
+7. Code Highlights  
+8. Responsive Design  
+9. Future Enhancements  
+10. Contribution Guidelines  
+11. License  
+12. Contact
 
 ---
 
-## **Introduction**
+## Introduction
 
 **CheckList App** is a productivity tool built with **React.js** and **Tailwind CSS** that allows users to manage tasks efficiently. It offers features like dark mode, local storage support, and task completion tracking. This app is perfect for staying organized and on top of your daily to-dos.  
 
@@ -34,7 +30,7 @@ With its intuitive user interface and smooth functionality, this app provides a 
 
 ---
 
-## **Features**
+## Features
 
 ### Key Functionality:
 1. **Add & Delete Tasks:**  
@@ -54,13 +50,13 @@ With its intuitive user interface and smooth functionality, this app provides a 
 
 ---
 
-## **Live Demo**
+## Live Demo
 
 👉 [CheckList App Live Demo](https://checklist-mohdazimuddin-chi.vercel.app/)
 
 ---
 
-## **Technologies Used**
+## Technologies Used
 
 ### Front-End:
 - **React.js**: Component-based architecture for building reusable UI components.  
@@ -74,15 +70,15 @@ With its intuitive user interface and smooth functionality, this app provides a 
 
 ---
 
-## **Setup Instructions**
+## Setup Instructions
 
 Follow these steps to run the project locally:
 
-### **Prerequisites:**
+### Prerequisites:
 1. Install **Node.js** (v14+ recommended)  
 2. Install **npm** (comes with Node.js)
 
-### **Steps to Run:**
+### Steps to Run:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/MohdAzimuddin/Checklist.git
@@ -100,32 +96,7 @@ Follow these steps to run the project locally:
 
 ---
 
-## **Folder Structure**
-
-```
-CheckList/
-├── public/
-│   ├── index.html
-│   └── favicon.ico
-├── src/
-│   ├── components/           # Reusable React components
-│   │   ├── Task.js
-│   │   ├── TaskForm.js
-│   │   └── Header.js
-│   ├── pages/                # Page-level components
-│   │   ├── HomePage.js
-│   ├── styles/               # Tailwind CSS configuration
-│   ├── App.js                # Main application component
-│   ├── index.js              # Entry point of the application
-│   └── utils/                # Utility functions
-├── .gitignore
-├── package.json
-└── README.md
-```
-
----
-
-## **Code Highlights**
+## Code Highlights
 
 ### 1. **Reusable Components:**
 Each UI element (e.g., Task, TaskForm, Header) is encapsulated in a reusable React component, ensuring modularity and maintainability.
@@ -138,7 +109,7 @@ A simple implementation to toggle between dark and light themes, enhancing user 
 
 ---
 
-## **Responsive Design**
+## Responsive Design
 
 CheckList App is optimized for all screen sizes and devices, with responsive design ensuring a smooth experience from desktops to mobile phones.  
 
@@ -149,7 +120,7 @@ The app adapts across these breakpoints:
 
 ---
 
-## **Future Enhancements**
+## Future Enhancements
 
 1. **User Authentication:**  
    Implement login and signup features for personalized task management.
@@ -165,7 +136,7 @@ The app adapts across these breakpoints:
 
 ---
 
-## **Contribution Guidelines**
+## Contribution Guidelines
 
 We welcome contributions to improve CheckList App!  
 
@@ -187,13 +158,13 @@ We welcome contributions to improve CheckList App!
 
 ---
 
-## **License**
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-## **Contact**
+## Contact
 
 - **Developer:** Mohd Azimuddin  
 - **Email:** [sfsuper2020@gmail.com]  
@@ -204,4 +175,3 @@ Feel free to reach out with feedback, questions, or collaboration ideas!
 ---
 
 Give a ⭐ if you like this project! 😊✨
-```
