@@ -17,7 +17,7 @@ const DateTime = () => {
   }, []);
 
   return (
-    <div className="w-full max-w-2xl p-4 text-center rounded-2xl bg-gradient-to-r from-purple-600 via-indigo-500 to-pink-500">
+    <div className="w-full max-w-sm p-4 text-center rounded-2xl bg-gradient-to-r from-purple-600 via-indigo-500 to-pink-500 sm:max-w-lg">
       <b className="text-2xl sm:text-xl font-bold">
         {date} - {time}
       </b>
